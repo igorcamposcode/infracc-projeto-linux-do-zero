@@ -20,7 +20,7 @@ cd /scripts/meus_scripts/
 wget url https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip
 unzip main.zip
 
-cd /sciprts/meus_scripts/linux-site-dio/
+cd /sciprts/meus_scripts/linux-site-dio-main/
 cp -R * /var/www/html
 
 echo "Finalizando configurações"
